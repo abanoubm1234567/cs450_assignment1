@@ -1,0 +1,10 @@
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.item {
+  flex: 1; /* Flex-grow: 1 */
+  margin: 5px;
+  background-color: lightgray;
+}
